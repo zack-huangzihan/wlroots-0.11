@@ -1,0 +1,4 @@
+- [Getting started](Getting-started)
+- [Projects using wlroots](Projects-which-use-wlroots)
+- [Environment variables used by wlroots](https://gitlab.freedesktop.org/wlroots/wlroots/-/blob/master/docs/env_vars.md)
+- [Packaging recommendations](Packaging-recommendations)
