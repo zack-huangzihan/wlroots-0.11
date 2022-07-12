@@ -1,4 +1,4 @@
-# Writing a Wayland Compositor, Part 2: Rigging up the serverFebruary 22, 2018 on [Drew DeVault's blog](https://drewdevault.com/)
+# Writing a Wayland Compositor, Part 2: Rigging up the server
 
 This is the second in a series of articles on the subject of writing a Wayland compositor from scratch using [wlroots](https://github.com/swaywm/wlroots). Check out [the first article](https://drewdevault.com/2018/02/17/Writing-a-Wayland-compositor-1.html) if you haven’t already. Last time, we ended up with an application which fired up a wlroots backend, enumerated output devices, and drew some pretty colors on the screen. Today, we’re going to start accepting Wayland client connections, though we aren’t going to be doing much with them yet.
 

@@ -1,4 +1,4 @@
-# Writing a Wayland Compositor, Part 1: Hello wlrootsFebruary 17, 2018 on [Drew DeVault's blog](https://drewdevault.com/)
+# Writing a Wayland Compositor, Part 1: Hello wlroots 
 
 This is the first in a series of *many* articles I’m writing on the subject of building a functional Wayland compositor from scratch. As you may know, I am the lead maintainer of [sway](https://github.com/swaywm/sway), a reasonably popular Wayland compositor. Along with many other talented developers, we’ve been working on [wlroots](https://github.com/swaywm/wlroots) over the past few months. This is a powerful tool for creating new Wayland compositors, but it is very dense and difficult to understand. Do not despair! The intention of these articles is to make you understand and feel comfortable using it.
 

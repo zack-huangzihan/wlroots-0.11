@@ -1,4 +1,4 @@
-# Writing a Wayland Compositor, Part 3: Rendering a windowFebruary 28, 2018 on [Drew DeVault's blog](https://drewdevault.com/)
+# Writing a Wayland Compositor, Part 3: Rendering a window
 
 This is the third in a series of articles on the subject of writing a Wayland compositor from scratch using [wlroots](https://github.com/swaywm/wlroots). Check out [the first article](https://drewdevault.com/2018/02/17/Writing-a-Wayland-compositor-1.html) if you haven’t already. We left off with a Wayland server which accepts client connections and exposes a handful of globals, but does not do anything particularly interesting yet. Our goal today is to do something interesting - render a window!
 
