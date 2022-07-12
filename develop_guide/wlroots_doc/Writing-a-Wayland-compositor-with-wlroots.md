@@ -1,4 +1,4 @@
-# Writing a Wayland compositor with wlroots: shellsJuly 29, 2018 on [Drew DeVault's blog](https://drewdevault.com/)
+# Writing a Wayland compositor with wlroots
 
 I apologise for not writing about wlroots more frequently. I don’t really enjoy working on the McWayface codebase this series of blog posts was originally about, so we’re just going to dismiss that and talk about the various pieces of a Wayland compositor in a more free-form style. I hope you still find it useful!
 
